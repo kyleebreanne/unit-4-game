@@ -1,1 +1,1 @@
-# unit-4-game
+#clone repository #open in browser #run in browser #to play the game click on each picture #each picture has a random generated number # add the numbers together to guess the winning number! #game will reset once image is clicked #keep tracks of wins and losses #have fun!
